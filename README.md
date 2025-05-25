@@ -34,7 +34,7 @@
 
 ### 🌟 Featured Projects
 
-🔬 **[Investigating Neural Connectivity in Psychosis]([https://github.com/HMLiu012/eeg-dcm-psychosis](https://github.com/HMLiu012/EEG-DCM-psychosis-UCL-))**  
+🔬 **[Investigating Neural Connectivity in Psychosis](https://github.com/HMLiu012/EEG-DCM-psychosis-UCL-)**  
 *Dynamic Causal Modeling with EEG data (B-SNIP dataset)*
 
 🧠 **[ADHD Biotype Prediction Project](https://github.com/HMLiu012/adhd-biotypes)**  
