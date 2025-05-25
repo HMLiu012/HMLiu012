@@ -2,47 +2,57 @@
 
 🎓 MRes Brain Sciences (UCL) | MSc Data Science & Analytics (Cardiff) | BSc Physics (Imperial)
 
-🧠 I am passionate about interdisciplinary research at the intersection of **psychiatric neuroscience**, **machine learning**, and **multimodal data analysis**. My recent projects involve:
+🌱 I'm passionate about interdisciplinary research at the intersection of **psychiatric neuroscience**, **machine learning**, and **multimodal data analysis**. My recent projects involve:
 
-- 🧬 Investigating EEG-based biomarkers in psychosis (DCM, B-SNIP dataset)
-- 🧠 Building predictive models of ADHD biotypes using neuroimaging and NHS clinical data
-- 🌍 Creating interactive biodiversity maps with GIS for healthcare infrastructure
+- 🧠 Investigating EEG-based biomarkers in psychosis (DCM, B-SNIP dataset)
+- 🧬 Building predictive models of ADHD biotypes using neuroimaging and NHS clinical data
+- 🗺️ Creating interactive biodiversity maps with GIS for healthcare infrastructure
 - ⚽ Football analytics and traffic sign recognition using CNNs & traditional ML
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 📊 GitHub Stats
 
-- Programming: `Python`, `R`, `MATLAB`, `SQL`
-- Machine Learning: `scikit-learn`, `TensorFlow/Keras`, `XGBoost`
-- Neuroimaging: `SPM12`, `FieldTrip`, `EEGLAB`, `MNE`
-- Data Science: `pandas`, `NumPy`, `matplotlib`, `statsmodels`
-- GIS: `ArcGIS Pro`, `QGIS`, `Dashboards`, `Instant Apps`
+![Profile Views](https://komarev.com/ghpvc/?username=HMLiu012&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/HMLiu012?style=social)
 
 ---
 
-## 📌 Selected Projects
+### 🛠️ Tech Stack
 
-- 🧠 **Neural Connectivity in Psychosis**  
-  `Dynamic Causal Modeling | EEG | Biotypes | UCL`  
-  > Explored causal neural interactions across psychosis subgroups using Bayesian DCM and source reconstruction.
-
-- 🧠 **ADHD Biotyping & Prediction (Ongoing PhD)**  
-  `MRI | fNIRS | OPM-MEG | NHS data`  
-  > Classifying ADHD subtypes to optimize personalized treatment pathways in children.
-
-- 🗺️ **Digital Biodiversity Map for NHS Velindre Cancer Centre**  
-  `GIS | ecological data | digital dashboard`  
-  > Interactive web map for species survey visualization on cancer centre construction site.
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=mysql)
+![SPM12](https://img.shields.io/badge/-SPM12-grey)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-4479A1?logo=esri)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 📫 Get in Touch
+### 🌟 Featured Projects
 
-- 📧 Email: lhm001122@outlook.com
+🔬 **[Investigating Neural Connectivity in Psychosis](https://github.com/HMLiu012/eeg-dcm-psychosis)**  
+*Dynamic Causal Modeling with EEG data (B-SNIP dataset)*
+
+🧠 **[ADHD Biotype Prediction Project](https://github.com/HMLiu012/adhd-biotypes)**  
+*Integrating NHS clinical data with MRI and MEG/fNIRS to guide personalized treatment*
+
+🗺️ **[Digital Biodiversity Map for NHS Velindre Cancer Centre](https://github.com/HMLiu012/nhs-biodiversity-map)**  
+*GIS-based interactive visualization of ecological data using ArcGIS*
+
+⚽ **[Football Analytics & Traffic Sign ML](https://github.com/HMLiu012/epl-football-signs)**  
+*Match prediction, CNN for sign recognition, image preprocessing & model comparison*
+
+---
+
+### 📫 Contact & Links
+
+- 📧 Email: haoming.liu@email.com
+
 
 ---
 
 > _"The brain is wider than the sky." – Emily Dickinson_
-
-
