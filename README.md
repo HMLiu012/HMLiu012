@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Haoming Liu / 刘昊明
+# 👋 Hello, I'm Haoming Liu / 刘浩铭
 
 🎓 MRes Brain Sciences (UCL) | MSc Data Science & Analytics (Cardiff) | BSc Physics (Imperial)
 
